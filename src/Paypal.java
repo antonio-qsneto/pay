@@ -19,4 +19,8 @@ public class Paypal implements pagamento{
         }
     }
 
+    public void Ola(){
+        System.out.println("Ola!!");
+    }
+
 }
